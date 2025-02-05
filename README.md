@@ -1,4 +1,7 @@
-# Database-Management-with-DB-Browser-SQLite---Adventure_Works-Project
+# Database-Management-with-SQL and Power BI
+
+
+https://app.powerbi.com/view?r=eyJrIjoiM2JjMmIwYzMtMzQ5OS00ZDE0LWE2MDUtM2FmYzE3NTkxZDE3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 Creating a Database using DB Browser for SQLite
 
